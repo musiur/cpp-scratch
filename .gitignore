@@ -1,6 +1,6 @@
 # Ignore Everything
 *
-
+*/output/*
 # But not .cpp
 !*.cpp
 # Or directories
