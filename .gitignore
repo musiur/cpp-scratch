@@ -1,6 +1,8 @@
 # Ignore Everything
 *
 */output/*
+*/** /output/*
+*/.exe
 # But not .cpp
 !*.cpp
 # Or directories
