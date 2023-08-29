@@ -7,3 +7,5 @@
 [27-08-23]Fixes: Programiz C++ Tutorial : Array and String #3
 
 [28-08-23]Fixes: Programiz C++ Tutorial : Structures #4
+
+[29-08-23]Fixes: Programiz C++ Tutorial : Classes & Objects #5
