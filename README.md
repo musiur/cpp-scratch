@@ -11,3 +11,5 @@
 [29-08-23]Fixes: Programiz C++ Tutorial : Classes & Objects #5
 
 [4-09-23]Fixes: Programiz C++ Tutorial : Pointers #6
+
+[5-09-23]Fixes: Programiz C++ Tutorial : Pointers #7
