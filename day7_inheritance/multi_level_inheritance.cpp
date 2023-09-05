@@ -1,18 +1,31 @@
 #include <iostream>
 using namespace std;
 
-class A {
-    public:
-        void print(){
-            cout << "Hello" << endl;
-        }
+class A
+{
+public:
+    void printA()
+    {
+        cout << "A" << endl;
+    }
 };
 
-class B: public A {};
-class C: public B {};
+class B
+{
+public:
+    void printB()
+    {
+        cout << "B" << endl;
+    }
+};
+class C : public B, public A
+{
+};
 
-int main(){
+int main()
+{
     C a;
-    a.print();
+    a.printA();
+    a.printB();
     return 0;
 }
